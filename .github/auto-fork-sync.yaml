@@ -1,3 +1,2 @@
-branches:
-  - master
+branch_blacklist: []
 merge_strategy: rebase
